@@ -8,12 +8,12 @@ function App() {
     <div className="App">
       <div className="Card6">
         <Tugas6 />
-      </div>
-      <div className="Card7">
+      {/* </div>
+      <div className="Card7"> */}
         <Tugas7
           name="Muhammad Farhan Nurrahmat Latif"
           email="farhan@gmail.com"
-          kelas="XII"
+          kelas="XII SIJA"
         />
       </div>
     </div>

@@ -6,14 +6,14 @@ import Tugas7 from './tugas7/tugas7';
 function App() {
   return (
     <div className="App">
-      <div className="Card6">
+      <div className="Content">
         <Tugas6 />
-      </div>
-      <div className="Card7">
+      {/* </div>
+      <div className="Card7"> */}
         <Tugas7
           name="Muhammad Farhan Nurrahmat Latif"
           email="farhan@gmail.com"
-          kelas="XII"
+          kelas="XII SIJA"
         />
       </div>
     </div>

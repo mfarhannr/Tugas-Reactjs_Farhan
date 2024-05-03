@@ -13,7 +13,7 @@ function App() {
         <Tugas7
           name="Muhammad Farhan Nurrahmat Latif"
           email="farhan@gmail.com"
-          kelas="XII"
+          kelas="X"
         />
       </div>
     </div>

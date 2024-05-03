@@ -10,11 +10,7 @@ function App() {
         <Tugas6 />
       </div>
       <div className="Card7">
-        <Tugas7
-          name="Muhammad Farhan Nurrahmat Latif"
-          email="farhan@gmail.com"
-          kelas="XII"
-        />
+        <Tugas7 name="Sarah" />
       </div>
     </div>
   );

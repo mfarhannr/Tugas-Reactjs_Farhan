@@ -1,14 +1,12 @@
 .App {
-  padding: 10rem;
+  padding: 15rem;
 }
 
 .Card6 {
   border: 1px solid #ccc;
   border-radius: 10px;
   padding: 2em;
-  margin: 2em auto;
-  width: 50%;
-  box-shadow: 2px 3px 5px #888888;
+  margin: auto;
 }
 
 span {
@@ -21,7 +19,6 @@ span {
   padding: 2em;
   margin: 5em auto;
   width: 50%;
-  box-shadow: 2px 3px 5px #888888;
 }
 
 .App-logo {

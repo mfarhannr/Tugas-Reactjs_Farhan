@@ -12,8 +12,7 @@ function App() {
       <div className="Card7">
         <Tugas7
           name="Muhammad Farhan Nurrahmat Latif"
-          email="farhan@gmail.com"
-          kelas="XII"
+          email="farhan@g,ma"
         />
       </div>
     </div>
