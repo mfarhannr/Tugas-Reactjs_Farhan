@@ -13,7 +13,7 @@ function App() {
           email="farhan@gmail.com"
           kelas="XII"
       />
-      <Tugas8 />
+      <Tugas8 />>
     </div>
   );
 }

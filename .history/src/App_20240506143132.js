@@ -12,8 +12,7 @@ function App() {
           name="Muhammad Farhan Nurrahmat Latif"
           email="farhan@gmail.com"
           kelas="XII"
-      />
-      <Tugas8 />
+        />
     </div>
   );
 }

@@ -2,7 +2,7 @@ import React from "react";
 
 function Tugas7(props) {
   return (
-    <div className="Card7">
+    <div className="Card">
       <h1>Data Diri Peserta Kelas React</h1>
       <hr></hr>
       <ul>
